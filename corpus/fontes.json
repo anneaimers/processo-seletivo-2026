@@ -1,0 +1,174 @@
+[
+  {
+    "id": "01",
+    "titulo": "Coffee Standards (Revised 2018)",
+    "autor": "Specialty Coffee Association (SCA)",
+    "url": "https://static1.squarespace.com/static/584f6bbef5e23149e5522201/t/5d936fa1e29d4d5342049d74/1569943487417/Coffee+Standards-compressed.pdf",
+    "data_acesso": "2026-06-20",
+    "arquivo_correspondente": "01_documento.txt",
+    "palavras_chave": ["agua", "brewing", "golden cup", "grading de cafe verde"]
+  },
+  {
+    "id": "02",
+    "titulo": "SCA Standard 102-2024 — Sample Preparation & Tasting Mechanics",
+    "autor": "Specialty Coffee Association (SCA)",
+    "url": "https://static1.squarespace.com/static/584f6bbef5e23149e5522201/t/6731cfbf355ac535d2d6074c/1731317695988/AW_SCA-102_Sample-Preparation_28.10.24_Secured.pdf",
+    "data_acesso": "2026-06-20",
+    "arquivo_correspondente": "02_documento.txt",
+    "notas": "Protocolo oficial de cupping (substitui o de 2004)"
+  },
+  {
+    "id": "03",
+    "titulo": "SCA — pagina 'Standards' (visao geral)",
+    "autor": "Specialty Coffee Association (SCA)",
+    "url": "https://sca.coffee/research/coffee-standards",
+    "data_acesso": "2026-06-20",
+    "arquivo_correspondente": "03_documento.txt"
+  },
+  {
+    "id": "04",
+    "titulo": "WCR Sensory Lexicon — pagina de recurso",
+    "autor": "World Coffee Research (WCR)",
+    "url": "https://worldcoffeeresearch.org/resources/sensory-lexicon",
+    "data_acesso": "2026-06-20",
+    "arquivo_correspondente": "04_documento.txt",
+    "notas": "Lexico sensorial e vocabulario (110 atributos)"
+  },
+  {
+    "id": "05",
+    "titulo": "WCR Sensory Lexicon — PDF completo (ingles)",
+    "autor": "World Coffee Research (WCR)",
+    "url": "https://worldcoffeeresearch.org/download/bf904452-fc8c-488f-b591-c0b20d9bcab2",
+    "data_acesso": "2026-06-20",
+    "arquivo_correspondente": "05_documento.txt"
+  },
+  {
+    "id": "06",
+    "titulo": "SCA — Coffee Taster's Flavor Wheel (pagina institucional)",
+    "autor": "Specialty Coffee Association (SCA)",
+    "url": "https://sca.coffee/research/coffee-tasters-flavor-wheel",
+    "data_acesso": "2026-06-20",
+    "arquivo_correspondente": "06_documento.txt",
+    "notas": "Imagem com licenca CC BY-NC-ND — referenciar, nao redistribuir"
+  },
+  {
+    "id": "07",
+    "titulo": "Manual de Indicacoes Geograficas do INPI (cap. Cerrado Mineiro)",
+    "autor": "Instituto Nacional da Propriedade Industrial (INPI)",
+    "url": "https://manualdeig.inpi.gov.br/attachments/download/3499/Manual_de_IG_2025_01_16.pdf",
+    "data_acesso": "2026-06-20",
+    "arquivo_correspondente": "07_documento.txt",
+    "notas": "Descricao oficial do perfil sensorial registrado em lei. Site bloqueia acesso automatizado (robots.txt) — baixe manualmente pelo navegador."
+  },
+  {
+    "id": "08",
+    "titulo": "Catalogo de cultivares de cafe arabica — Embrapa",
+    "autor": "Empresa Brasileira de Pesquisa Agropecuaria (Embrapa)",
+    "url": "https://infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1145722/1/v18-09-09-22-Embrapa-Cafe-Documentos-16.pdf",
+    "data_acesso": "2026-06-20",
+    "arquivo_correspondente": "08_documento.txt",
+    "notas": "Site bloqueia acesso automatizado (robots.txt) — baixe manualmente pelo navegador."
+  },
+  {
+    "id": "09",
+    "titulo": "Cultivo dos Cafeeiros Conilon e Robusta para Rondonia — Embrapa",
+    "autor": "Empresa Brasileira de Pesquisa Agropecuaria (Embrapa)",
+    "url": "https://infoteca.cnptia.embrapa.br/bitstream/doc/710755/1/sp33cafe.pdf",
+    "data_acesso": "2026-06-20",
+    "arquivo_correspondente": "09_documento.txt"
+  },
+  {
+    "id": "10",
+    "titulo": "Caracteristicas das variedades de cafe cultivadas em Rondonia — Embrapa",
+    "autor": "Empresa Brasileira de Pesquisa Agropecuaria (Embrapa)",
+    "url": "https://infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/906832/1/Doc93cafe.pdf",
+    "data_acesso": "2026-06-20",
+    "arquivo_correspondente": "10_documento.txt"
+  },
+  {
+    "id": "11",
+    "titulo": "Lista oficial de IGs registradas (cafe) — Portal Gov.br",
+    "autor": "Ministerio da Agricultura e Pecuaria / Governo Federal",
+    "url": "https://www.gov.br/agricultura/pt-br/assuntos/sustentabilidade/indicacao-geografica/listaigs",
+    "data_acesso": "2026-06-20",
+    "arquivo_correspondente": "11_documento.txt"
+  },
+  {
+    "id": "12",
+    "titulo": "Cafe e o produto com maior numero de IGs no Brasil — Embrapa",
+    "autor": "Empresa Brasileira de Pesquisa Agropecuaria (Embrapa)",
+    "url": "https://www.embrapa.br/en/busca-de-noticias/-/noticia/62550507",
+    "data_acesso": "2026-06-20",
+    "arquivo_correspondente": "12_documento.txt"
+  },
+  {
+    "id": "13",
+    "titulo": "Federacion Nacional de Cafeteros — Wikipedia (historia institucional)",
+    "autor": "Contribuidores da Wikipedia",
+    "url": "https://es.wikipedia.org/wiki/Federación_Nacional_de_Cafeteros_de_Colombia",
+    "data_acesso": "2026-06-20",
+    "arquivo_correspondente": "13_documento.txt",
+    "confiabilidade": "Complemento factual, nao fonte tecnica principal"
+  },
+  {
+    "id": "14",
+    "titulo": "Conoce todo sobre el mapa sensorial de cafe — Compro Cafe de Colombia (FNC)",
+    "autor": "Federacion Nacional de Cafeteros (FNC)",
+    "url": "https://comprocafedecolombia.com/conoce-todo-sobre-el-mapa-sensorial-de-cafe/",
+    "data_acesso": "2026-06-20",
+    "arquivo_correspondente": "14_documento.txt",
+    "confiabilidade": "Conteudo comercial/institucional simples — peso menor que documentos tecnicos"
+  },
+  {
+    "id": "15",
+    "titulo": "Beyond Sugar and Milk: How Brazilians Pair Coffee with Food — Revista 25, SCA",
+    "autor": "Anna Luiza Santana Neves / Specialty Coffee Association (SCA)",
+    "url": "https://sca.coffee/sca-news/25/issue-24-beyond-sugar-and-milk",
+    "data_acesso": "2026-06-20",
+    "arquivo_correspondente": "15_documento.txt",
+    "notas": "Pesquisa da UNICAMP sobre harmonizacao (pao de queijo, chocolate, queijo + cafe)"
+  },
+  {
+    "id": "16",
+    "titulo": "Pairing coffee with basic tastes and real foods changes perceived sensory characteristics and consumer liking",
+    "autor": "Rune, C.J.B. et al. / International Journal of Gastronomy and Food Science",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1878450X22001263",
+    "data_acesso": "2026-06-20",
+    "arquivo_correspondente": "16_documento.txt",
+    "notas": "Artigo cientifico de acesso aberto, licenca CC BY 4.0"
+  },
+  {
+    "id": "17",
+    "titulo": "Systematic Review of Methods Used for Food Pairing — MDPI Beverages",
+    "autor": "MDPI Beverages (periodico de acesso aberto)",
+    "url": "https://doi.org/10.3390/beverages7020040",
+    "data_acesso": "2026-06-20",
+    "arquivo_correspondente": "17_documento.txt"
+  },
+  {
+    "id": "18",
+    "titulo": "SCA Coffee Sensory & Cupping Handbook (pagina institucional/produto)",
+    "autor": "Specialty Coffee Association (SCA)",
+    "url": "https://sca.coffee/store/p/coffee-sensory-cupping-handbook",
+    "data_acesso": "2026-06-20",
+    "arquivo_correspondente": "18_documento.txt",
+    "notas": "Pagina descritiva publica; o handbook completo e pago"
+  },
+  {
+    "id": "19",
+    "titulo": "Sensory analysis of full immersion brewed and cold brewed coffee — Nature Scientific Reports",
+    "autor": "Nature Portfolio",
+    "url": "https://www.nature.com/articles/s41598-024-69867-6",
+    "data_acesso": "2026-06-20",
+    "arquivo_correspondente": "19_documento.txt"
+  },
+  {
+    "id": "20",
+    "titulo": "Wikipedia — 'Specialty coffee' (contexto geral/definicoes)",
+    "autor": "Contribuidores da Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Specialty_coffee",
+    "data_acesso": "2026-06-20",
+    "arquivo_correspondente": "20_documento.txt",
+    "confiabilidade": "Usar so como complemento, nao fonte tecnica principal"
+  }
+]
