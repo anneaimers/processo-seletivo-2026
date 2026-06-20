@@ -164,11 +164,11 @@
   },
   {
     "id": "20",
-    "titulo": "Wikipedia — 'Specialty coffee' (contexto geral/definicoes)",
-    "autor": "Contribuidores da Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Specialty_coffee",
+    "titulo": "Specialty Coffee: A Review on History, Quality and Future Trends",
+    "autor": "MDPI Beverages",
+    "url": "https://doi.org/10.3390/beverages7020023",
     "data_acesso": "2026-06-20",
     "arquivo_correspondente": "20_documento.txt",
-    "confiabilidade": "Usar so como complemento, nao fonte tecnica principal"
+    "justificativa": "Artigo científico de revisão que define formalmente os critérios históricos, químicos e sensoriais que diferenciam o café especial do comercial."
   }
 ]

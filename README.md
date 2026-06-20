@@ -104,3 +104,32 @@ A todos, desejamos um bom projeto, e boa sorte.
 Atenciosamente,
 
 Caio Johnston, Gabriel Mattos, Giovanni Braga, e Isaac Elgrably.
+
+---
+
+1. Por que este corpus e o que ele representa?
+Profissionais e entusiastas de café especial frequentemente precisam consultar vocabulário sensorial padronizado, protocolos técnicos de *cupping/brewing* e contextos de origem geográfica. No entanto, essas informações costumam estar espalhadas entre documentos institucionais densos (SCA, WCR) e registros legais complexos (INPI/Embrapa). 
+
+O desenvolvimento de um sistema **RAG (Retrieval-Augmented Generation)** resolve exatamente a dificuldade de localizar rapidamente esses dados sem a necessidade de vasculhar e ler manualmente dezenas de PDFs técnicos extensos. Este corpus representa a base de conhecimento consolidada e confiável desse ecossistema.
+
+---
+
+2. Por que RAG + Busca Web resolvem melhor do que cada um sozinho?
+Os padrões da SCA/WCR e os registros do INPI são extremamente estáveis, normativos e consolidados; logo, o RAG é a arquitetura ideal e confiável para recuperá-los com precisão, evitando alucinações. 
+
+Contudo, existem **lacunas genuínas e documentadas** neste corpus local — por exemplo, mesmo após buscas dedicadas, não foram encontradas fontes institucionais abertas e robustas detalhando o perfil sensorial de origens específicas como Etiópia ou Indonésia. A **busca web** entra no sistema para suprir exatamente essa lacuna real (e não fabricada artificialmente para o desafio), trazendo dinamismo ao pipeline.
+
+---
+
+3. Onde o sistema vai falhar? (Limitações do Pipeline)
+É fundamental documentar os cenários onde o pipeline encontrará restrições:
+* **Origens internacionais específicas:** Perguntas detalhadas sobre os perfis sensoriais da Etiópia ou Indonésia (devido à lacuna documental mapeada acima).
+* **Harmonizações comerciais/específicas:** Combinações muito nichadas de alimentos e cafés que não estejam formalmente cobertas pela literatura científica disponível no corpus.
+* **Dados voláteis de mercado:** Informações de preços, cotações atuais do café ou dados comerciais sazonais que não fazem parte de nenhum documento normativo indexado.
+
+---
+
+4. Por que este corpus exercita todas as partes obrigatórias do desafio?
+O corpus foi desenhado estrategicamente para cobrir de forma sólida os pilares exigidos pelo edital:
+* **Robustez no RAG:** Garantida pela presença de dados profundos sobre *cupping*, padrões técnicos, léxico sensorial, origens brasileiras e harmonização com embasamento científico real.
+* **Fallback genuíno para a entrevista:** A limitação sobre as lacunas da Etiópia/Indonésia foi descoberta de forma orgânica durante a fase de curadoria e pesquisa. Isso cria um cenário de teste real, defensável e técnico para demonstrar aos avaliadores o comportamento do sistema quando precisa alternar dinamicamente entre o banco local e a API de busca web.
